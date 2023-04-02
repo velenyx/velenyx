@@ -1,4 +1,4 @@
-<h1 align=center>Hi there 👋, I'm Servritis!<h1>
+<h1 align="center">Hi there 👋, I'm Servritis!</h1>
 <h3 align="center">A python developer from Russia</h3>
 
 Here are some ideas to get you started:
