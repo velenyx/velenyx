@@ -3,8 +3,8 @@
 
 - ⚡ I am **Frontend developer**, but my hobby is **Backend development**
 - 🌱 I’m currently learning **JEST, Redux Toolkit**
-- 👨‍💻 All of my projects are available at [https://velenyx-homepage.vercel.app/works] (https://velenyx-homepage.vercel.app/works)
+- 👨‍💻 All of my projects are available at [https://velenyx-homepage.vercel.app/works](https://velenyx-homepage.vercel.app/works)
 - 📫 How to reach me **[https://t.me/velenyx](https://t.me/velenyx)**
-- 📄 Know about my experiences and me [https://velenyx-homepage.vercel.app/works] (https://velenyx-homepage.vercel.app)
+- 📄 Know about my experiences and me [https://velenyx-homepage.vercel.app/works](https://velenyx-homepage.vercel.app)
 - 🔫 LeetCode https://leetcode.com/velenyx/
 
