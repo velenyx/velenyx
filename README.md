@@ -3,9 +3,9 @@
 
 <p align='left'>
 
+- ⚡ I am **Frontend developer**, but my hobby is **Backend development**
 - 🌱 I’m currently learning **JEST, Redux Toolkit**
 - 👨‍💻 All of my projects are available at
-- ⚡ Fun fact **I am young**
 - 📄 Know about my experiences
 - 🔫 LeetCode https://leetcode.com/velenyx/
 
