@@ -1,12 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Velenyx!</h1>
+<h1 align="left">:wave: Hello there! I'm Dmitry Sivritkin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velenyx&label=Profile%20views&color=0e75b6&style=flat" alt="velenyx" /> </p>
 
-- ⚡ I am **Frontend developer**, but my hobby is **Backend development**
-- 🌱 I’m currently learning **NextJS 13.4**
-- 👨‍💻 All of my projects are available at [https://velenyx-homepage.vercel.app/works](https://velenyx-homepage.vercel.app/works)
-- 📫 How to reach me **[https://t.me/velenyx](https://t.me/velenyx)**
-- 📄 Know about my experiences and me [https://velenyx-homepage.vercel.app/works](https://velenyx-homepage.vercel.app)
+Frontend Developer from Velenyx 🐶
+
+- :office: &nbsp;I'm currently working at **[Nice Bets](https://nice-bets.ru/)**
+- :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
+- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/velenyx)**
 - 🔫 LeetCode https://leetcode.com/velenyx/
+- 📄 Know about my experiences and me [https://velenyx-homepage.vercel.app/works](https://velenyx-homepage.vercel.app)
 
 <br>
 
@@ -257,3 +258,10 @@
     </td>
   </tr> 
 </table>
+
+## ☄️ Contact
+
+- :airplane: &nbsp;**[Telegram](https://t.me/velenyx)**
+- :comet: &nbsp;**[Github](https://github.com/velenyx)**
+
+<br/>
