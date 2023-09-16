@@ -1,12 +1,12 @@
-<h1 align="left">:wave: Hello there! I'm Dmitry Sivritkin</h1>
-
-Frontend Developer from Velenyx 🐶
-
-- :office: &nbsp;I'm currently working at **[Nice Bets](https://nice-bets.ru/)**
-- :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
-- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/velenyx)**
-- 🔫 LeetCode https://leetcode.com/velenyx/
-- 📄 Know about my experiences and me [https://velenyx-homepage.vercel.app/works](https://velenyx-homepage.vercel.app)
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary>
+    <h1 style="display: inline-block;">
+    <samp>&gt; Hey There! I'm velenyx</samp>
+    </h1>
+    </summary>
+  </ul>
+</div>
 
 <br>
 
