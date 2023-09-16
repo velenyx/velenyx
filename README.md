@@ -1,5 +1,4 @@
 <h1 align="left">:wave: Hello there! I'm Dmitry Sivritkin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velenyx&label=Profile%20views&color=orange&style=flat" alt="velenyx" /> </p>
 
 Frontend Developer from Velenyx 🐶
 
@@ -265,3 +264,14 @@ Frontend Developer from Velenyx 🐶
 - :comet: &nbsp;**[Github](https://github.com/velenyx)**
 
 <br/>
+
+<h2><samp>&gt; Stats:</samp></h2>
+
+<p>
+  <a href="https://wakatime.com/@velenyx">
+    <img src="https://wakatime.com/badge/user/4e072e49-bef7-4700-9ee5-175e35b6103e.svg?style=flat" alt="Wakatime statistic" />
+  </a>
+  <a href="https://github.com/velenyx">
+    <img src="https://komarev.com/ghpvc/?username=velenyx&label=Profile%20views&color=orange&style=flat" alt="GitHub profile views" />
+  </a>
+</p>
