@@ -10,8 +10,7 @@
 
 <br>
 
-<h2 align="left" id="velenyx-stack">🔥 Tech stack</h2>
-
+<h2><samp>&gt; Tech Stack:</samp></h2>
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
@@ -264,10 +263,10 @@
 
 <p>
   <a href="https://wakatime.com/@velenyx">
-    <img src="https://wakatime.com/badge/user/4e072e49-bef7-4700-9ee5-175e35b6103e.svg?style=flat" alt="Wakatime statistic" />
+    <img src="https://wakatime.com/badge/user/4e072e49-bef7-4700-9ee5-175e35b6103e.svg?style=social" alt="Wakatime statistic" />
   </a>
   <a href="https://github.com/velenyx">
-    <img src="https://komarev.com/ghpvc/?username=velenyx&label=Profile%20views&color=orange&style=flat" alt="GitHub profile views" />
+    <img src="https://komarev.com/ghpvc/?username=velenyx&style=flat-square&color=ACACAC" alt="GitHub profile views" />
   </a>
 </p>
 
@@ -276,3 +275,23 @@
 </div>
 
 <br/>
+
+<h2><samp>&gt; Contact info:</samp></h2>
+
+<p>
+  <a href="https://t.me/velenyx">
+    <img src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=black&color=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:dmitriysivritkin@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%230077B5.svg?&style=for-the-badge&logo=Gmail&logoColor=black&color=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/velenyx">
+    <img src="https://img.shields.io/badge/GitHub-%23E4405F.svg?&style=for-the-badge&logo=GitHub&logoColor=black&color=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/velenyx">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&color=white" alt="Leetcode"/>
+  </a>
+  <a href="https://www.codewars.com/users/velenyx">
+    <img src="https://img.shields.io/badge/Codewars-%2312100E.svg?&style=for-the-badge&logo=Codewars&logoColor=black&color=white" alt="Codewars"/>
+  </a>
+</p>
