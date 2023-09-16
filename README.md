@@ -258,11 +258,6 @@ Frontend Developer from Velenyx 🐶
   </tr> 
 </table>
 
-## ☄️ Contact
-
-- :airplane: &nbsp;**[Telegram](https://t.me/velenyx)**
-- :comet: &nbsp;**[Github](https://github.com/velenyx)**
-
 <br/>
 
 <h2><samp>&gt; Stats:</samp></h2>
@@ -275,3 +270,9 @@ Frontend Developer from Velenyx 🐶
     <img src="https://komarev.com/ghpvc/?username=velenyx&label=Profile%20views&color=orange&style=flat" alt="GitHub profile views" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Qu1nel/Qu1nel/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
+</div>
+
+<br/>
