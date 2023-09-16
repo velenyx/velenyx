@@ -1,3 +1,5 @@
+<img src=".github/assets/svg/white-waves.svg" />
+
 <div id="user-content-toc" align="center">
   <ul>
     <summary>
