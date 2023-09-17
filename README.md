@@ -43,7 +43,7 @@ const VELENYX = {
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Qu1nel/Qu1nel/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/velenyx/velenyx/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
 </div>
 
 <div align="center">
