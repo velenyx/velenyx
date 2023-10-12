@@ -1,4 +1,4 @@
-<img src=".github/assets/svg/white-waves.svg" />
+<img src=".github/assets/banners/1-cat.png" />
 
 <div id="user-content-toc" align="center">
   <ul>
