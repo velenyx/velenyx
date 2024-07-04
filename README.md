@@ -87,19 +87,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/velenyx/velenyx/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
 </div>
-
-<br/>
-
-<h2><samp>&gt; Contact info:</samp></h2>
-
-<p>
-  <a href="https://t.me/velenyx">
-    <img src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=black&color=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:dmitriysivritkin@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%230077B5.svg?&style=for-the-badge&logo=Gmail&logoColor=black&color=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/velenyx">
-    <img src="https://img.shields.io/badge/GitHub-%23E4405F.svg?&style=for-the-badge&logo=GitHub&logoColor=black&color=white" alt="GitHub"/>
-  </a>
-</p>
